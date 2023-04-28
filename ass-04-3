@@ -1,0 +1,3 @@
+lst = [4, 5, 2, 9]
+squared_lst = list(map(lambda x: x**2, lst))
+print("Square the elements of the list:", squared_lst)
